@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/yuanyu90221/stream-adventure-lessions#readme",
   "dependencies": {
+    "child_process": "^1.0.2",
     "concat-stream": "^2.0.0",
+    "duplexer2": "^0.1.4",
     "split2": "^3.2.2",
     "through2": "^4.0.2",
     "trumpet": "^1.7.2",
