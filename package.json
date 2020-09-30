@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yuanyu90221/stream-adventure-lessions#readme",
   "dependencies": {
+    "split2": "^3.2.2",
     "through2": "^4.0.2"
   }
 }
